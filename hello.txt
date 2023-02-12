@@ -1,9 +1,12 @@
-hello git! other1 
+hello git! master 2 
+hello git! other 1
+
+No write since last change (add ! to override)
+h No write since last change (add ! to overrideello git!
 hello git!
 hello git!
 hello git!
-hello git!
-hello git!
+
 
 
 
